@@ -26,10 +26,6 @@ Contributions are welcome! If you'd like to contribute to FridgeBuddy, please fo
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-## Credits
-
-FridgeBuddy was created by [ReniIrinyi].
-
 ## License
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details.
