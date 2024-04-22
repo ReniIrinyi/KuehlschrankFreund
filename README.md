@@ -10,13 +10,6 @@ KühlschrankFreund is a Kotlin and Angular-based web-app designed to minimize fo
 - Kotlin backend with MariaDB database
 - Angular frontend for web and mobile platforms
 
-## Run
-
-To install FridgeBuddy, follow these steps:
-1. Clone the repository: `git clone https://github.com/your_username/FridgeBuddy.git`
-2. Navigate to the project directory: `cd KuehlschrankFreund`
-4. Start the backend and frontend server: `gradlew runBoth`
-
 ## Usage
 
 1. Sign up for an account or log in if you already have one.
